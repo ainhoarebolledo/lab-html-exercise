@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+body {
+  font-family: 'Poppins';
+}
+
+
+header > div {
+  padding: 0 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid lightgray;
+}
+
+#bottom {
+  text-align: center;
+  padding: 0 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+#bottom img {
+	width: 40px;
+}
+
+
+nav {
+	width: 600px;
+}
+
+nav ul {
+	list-style: none;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+nav a {
+	text-decoration: none;
+	color: black;
+}
+
+.blackHeart {
+	width: 20px;
+	margin-right: 1rem;
+}
+
+form label, input {
+	color: rgba(0,0,0,0.5);
+}
+
+form {
+	background-color: #fb3e44;
+	color: white;
+}
+
+#general-information {
+	height: 600px;
+	background-color: rgba(232,217,217,.3);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	
+}
+
+.container {
+	width: 1200px;
+	margin: 0 auto;
+	padding: 75px 0;
+}
+
+
+.link-btn-1 {
+	background-color: #FB3B49;
+	box-shadow: 8px 8px 0 rgba(251,59,73,.2);
+	color: white;
+	text-decoration: none;
+}
+
+.link-btn-2 {
+	background-color: rgba(232,217,217,.3);
+	color:black;
+	text-decoration: none;
+}
+
+#hexagon {
+	transform: skew(9deg,0deg);
+	font-style: italic;
+	margin-right: 
+
+}
+
+#hexagon img {
+	width: 400px;
+
+}
+
+#hexagon h4 {
+	background-color: rgba(255,204,53.4);
+}
+
+
+
+.link-btn-3 {
+	background-color: black;
+	box-shadow: 8px 8px 0 rgba(128,83,35,2.):;
+	color: white;
+	text-decoration: none;
+}
+
+#features img {
+	width: 100px;
+}
+
+#features h6 {
+	color: #ED1C24;
+}
+
+#features > div {
+	display: flex;
+	flex-direction: row;
+}
+
+
