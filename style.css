@@ -85,7 +85,7 @@ header nav a {
     bottom: 10px;
 }
 
-
+/* la SEARCH BAR Y LA MAGNIFYING GLASS que sean de la misma altura*/ 
 .input {
     width: 800px;
     height: 40px;
@@ -263,6 +263,8 @@ header nav a {
 
 
   /* last black button*/ 
+
+  /*FALTA CENTRAR EL CREATE AN ORG*/
 
 
  .black-button {
